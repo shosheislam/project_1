@@ -1,0 +1,124 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/* header start*/
+   .menu ul li a {
+    text-align: right;
+    padding: 2px !important;
+}
+   /* header end*/
+   /*slider start*/
+   .content h1 {
+    
+    font-size: 22px;
+}
+.content input {
+    font-size: 12px;
+}
+.car-ind {
+    bottom: 1px;
+}
+/*service*/
+.c_h1 {
+    
+    font-size: 22px!important;
+    
+}
+.c_p {
+    font-size: 14px!important;
+    word-spacing: 1px!important;
+}
+.single_item {
+    padding-top: 20px;
+}
+/*skill start*/
+.skill {
+
+    padding: 50px 0;
+}
+
+.single_skill {
+    padding-top: 20px;
+}
+/*beautiful*/
+.beautiful_team {
+    background-color: #e7f1f8;
+    padding: 50px 0;
+}
+.black {
+
+    margin-bottom: 0px!important;
+}
+.gray {
+   
+    padding-bottom: 20px;
+}
+.card_h2 {
+    
+    font-size: 19px;
+}
+.card_h5 {
+    
+    font-size: 15px;
+    
+}
+.card_p {
+    font-size: 14px;
+    
+}
+/*protfulliyo*/
+.button_itme button {
+    font-size: 12px;
+   
+    padding: 0 9px;
+    
+}
+.single_protfolio {
+    padding: 10px 0;
+}
+.c_button {
+    font-size: 10px;
+    padding: 10px 10px;
+}
+/*contact us*/
+.contact {
+    padding: 50px 0;
+}
+/*footer*/
+.footer p {
+    
+    font-size: 12px;
+  
+}
+.footer ul li a {
+    font-size: 25px;
+    
+}
+   
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   /* header start*/
+   .menu ul li a {
+    text-align: right;
+    padding: 4px !important;
+}
+   /* header end*/
+  
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 5px !important;
+}
+	/* header end*/
+	
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
